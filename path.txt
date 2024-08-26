@@ -1,0 +1,7 @@
+For host file:
+
+1 - go in c-drive. 
+2 - then go in windows then system-32.
+3 - then go in driver then in etc.
+4 - then select all file option from drop down present above the open/cancel button.
+5 - then open host file is infront of you.
